@@ -31,4 +31,4 @@ This project analyzes an online bookstore using SQL queries on three datasets: B
 ## 🏆 Author
 👤 **Sadam Barkat**  
 📌 GitHub: [Sadam-Barkat](https://github.com/Sadam-Barkat)  
-📧 Email: your-email@example.com
+📧 Email: sadambarkat405@gmail.com
